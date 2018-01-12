@@ -62,8 +62,8 @@ defaultContentLanguageInSubdir = false
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "ying_zh@hust.edu.cn"
   address = "College of Life Science and Technology, Huazhong University of Science and Technology, Luoyu Road 1037, Eastern building 11, Eastern campus of HUST, Wuhan 430074, China"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
+  office_hours = "Monday to Saturday 10:00 to 22:00 or email for contact"
+  phone = "15271819490"
   skype = "echo123"
   telegram = ""
 
@@ -218,22 +218,27 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:ying_zh@hust.edu.cn"
+	
+  [[params.social]]
+    icon = "weibo"
+    icon_pack = "fa"
+    link = "https://www.weibo.com/2720157023/profile?topnav=1&wvr=6&is_all=1"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "//twitter.com/xiaoying201355"
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "https://scholar.google.co.uk/citations?user=zhang1093542585"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "//github.com/xiaoying201355"
 
 
 # Navigation Links
