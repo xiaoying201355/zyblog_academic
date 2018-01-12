@@ -9,32 +9,26 @@ weight = 5
 
 # List your academic interests.
 [interests]
-  interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
-  ]
+  interests =[
+    "Functional genomics",
+    "Proteomis",
+    "Post translational modifications",
+	"Yeast Autophagy"
+	]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Ph.D. candidate in Bioinformatics"
+  institution = "Huazhong University of Science and Technology"
+  year = 2018
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Biology science"
+  institution = "Huazhong University of Science and Technology"
+  year = 2013
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Ying Zhang is a Ph.D. candidate of Bioinformaticsprofessor at the Huazhong University of Science and Technology CUCKOO Lab. Her research interests include yeast autophagy and functional post-translational modifications (PTMs), constructing easy-to-use softwares and databases, and proteome-wide analysis of PTMs substrates, etc. They are currently combining genetics, bioinformatics, and molecular & cellular biology approaches to study functional genetic variations that potentially influence protein modification status and phenotype.
