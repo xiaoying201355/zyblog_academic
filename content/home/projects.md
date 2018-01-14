@@ -31,11 +31,22 @@ filter_default = 0
 [[filter]]
   name = "All"
   tag = "*"
+[[filter]]
+  name = "Data Integration"
+  tag = ".data-integration"
 
 [[filter]]
   name = "Deep Learning"
   tag = ".deep-learning"
 
+[[filter]]
+  name = "Functional PTM"
+  tag = ".functional-ptm"
+
+[[filter]]
+  name = "Multi-Omics Data Analysis"
+  tag = ".multi-omics"
+  
 [[filter]]
   name = "Other"
   tag = ".demo"

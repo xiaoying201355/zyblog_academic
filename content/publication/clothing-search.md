@@ -1,9 +1,9 @@
 +++
-title = "Mobile visual clothing search"
-date = "2013-07-01"
+title = "CGDB: a database of circadian genes in eukaryotes"
+date = "2017-01-04"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["GA Cushen", "MS Nixon"]
+authors = ["Shujing Li", "Ke shui", "Ying Zhang"]
 
 # Publication type.
 # Legend:
@@ -14,15 +14,15 @@ authors = ["GA Cushen", "MS Nixon"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on Multimedia and Expo Workshops (ICMEW)*, IEEE."
-publication_short = "In *ICMEW*"
+publication = "*Nucleic acids research* 45 (D1), D397-D403"
+publication_short = "In *NAR*"
 
 # Abstract and optional shortened version.
-abstract = "We present a mobile visual clothing search system whereby a smart phone user can either choose a social networking photo or take a new photo of a person wearing clothing of interest and search for similar clothing in a retail database. From the query image, the person is detected, clothing is segmented, and clothing features are extracted and quantized. The information is sent from the phone client to a server, where the feature vector of the query image is used to retrieve similar clothing products from online databases. The phone's GPS location is used to re-rank results by retail store location. State of the art work focuses primarily on the recognition of a diverse range of clothing offline and pays little attention to practical applications. Evaluated on a challenging dataset, the system is relatively fast and achieves promising results."
-abstract_short = "A mobile visual clothing search system is presented whereby a smart phone user can either choose a social networking image or capture a new photo of a person wearing clothing of interest and search for similar clothing in a large cloud-based ecommerce database. The phone's GPS location is used to re-rank results by retail store location, to inform the user of local stores where similar clothing items can be tried on."
+abstract = "We report a database of circadian genes in eukaryotes (CGDB, http://cgdb.biocuckoo.org), containing ∼73 000 circadian-related genes in 68 animals, 39 plants and 41 fungi. Circadian rhythm is ∼24 h rhythm in behavioral and physiological processes that exists in almost all organisms on the earth. Defects in the circadian system are highly associated with a number of diseases such as cancers. Although several databases have been established for rhythmically expressed genes, a comprehensive database of cycling genes across phyla is still lacking. From the literature, we collected 1382 genes of which transcript level oscillations were validated using methods such as RT-PCR, northern blot and in situ hybridization. Given that many genes exhibit different oscillatory patterns in different tissues/cells within an organism, we have included information regarding the phase and amplitude of the oscillation, as well as the tissue/cells in which the oscillation was identified. Using these well characterized cycling genes, we have then conducted an orthologous search and identified ∼45 000 potential cycling genes from 148 eukaryotes. Given that significant effort has been devoted to identifying cycling genes by transcriptome profiling, we have also incorporated these results, a total of over 26 000 genes, into our database."
+abstract_short = ""
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -33,22 +33,22 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["example-external-project"]
+projects = ["data-integration"]
 
 # Links (optional).
-url_pdf = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
+url_pdf = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5210527/pdf/gkw1028.pdf"
 url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 url_code = "#"
-url_dataset = "#"
+url_dataset = "http://cgdb.biocuckoo.org/download.php"
 url_project = "#"
 url_slides = "#"
 url_video = "#"
 url_poster = "#"
-url_source = "#"
+url_source = "http://cgdb.biocuckoo.org/"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "Custom Link", url = "http://gps.biocuckoo.org/"}]
 
 # Does the content use math formatting?
 math = true
@@ -60,7 +60,7 @@ highlight = true
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+caption = "My caption"
 
 +++
 
