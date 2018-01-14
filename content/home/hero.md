@@ -24,6 +24,7 @@ weight = 3
 #  label = '<i class="fa fa-download"></i> Install Now'
 +++
 
-Don't aim for success if you want it; just do what you love and believe in, and it will come naturally.
+Don't aim for success if you want it; just do what you love and believe in, <br>
+and it will come naturally.
 <br>
 
