@@ -11,21 +11,31 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>CGDB: a database of circadian genes in eukaryotes</title>
-      <link>/publication/clothing-search/</link>
-      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      <title>THANATOS: an integrative data resource of proteins and post-translational modifications in the regulation of autophagy</title>
+      <link>/publication/thanatos/</link>
+      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/clothing-search/</guid>
+      <guid>/publication/thanatos/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>THANATOS: an integrative data resource of proteins and post-translational modifications in the regulation of autophagy</title>
-      <link>/publication/person-re-identification/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <title>CGDB: a database of circadian genes in eukaryotes</title>
+      <link>/publication/cgdb/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/person-re-identification/</guid>
+      <guid>/publication/cgdb/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>dbPSP: a curated database for protein phosphorylation sites in prokaryotes</title>
+      <link>/publication/dbpsp/</link>
+      <pubDate>Fri, 03 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/dbpsp/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>

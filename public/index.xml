@@ -11,22 +11,22 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>CGDB: a database of circadian genes in eukaryotes</title>
-      <link>/publication/clothing-search/</link>
-      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      <title>THANATOS: an integrative data resource of proteins and post-translational modifications in the regulation of autophagy</title>
+      <link>/publication/thanatos/</link>
+      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/clothing-search/</guid>
+      <guid>/publication/thanatos/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Example Talk</title>
-      <link>/talk/example-talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      <title>CGDB: a database of circadian genes in eukaryotes</title>
+      <link>/publication/cgdb/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/talk/example-talk/</guid>
-      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+      <guid>/publication/cgdb/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
@@ -1169,16 +1169,6 @@ y &amp;amp;=&amp;amp; 1+1   \\\\\\
     </item>
     
     <item>
-      <title>THANATOS: an integrative data resource of proteins and post-translational modifications in the regulation of autophagy</title>
-      <link>/publication/person-re-identification/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/person-re-identification/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Hello R Markdown</title>
       <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
@@ -1223,6 +1213,16 @@ Figure 1: A fancy pie chart.
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>dbPSP: a curated database for protein phosphorylation sites in prokaryotes</title>
+      <link>/publication/dbpsp/</link>
+      <pubDate>Fri, 03 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/dbpsp/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
