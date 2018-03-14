@@ -16,7 +16,8 @@ image_preview = "bubbles.jpg"
 tags = ["deep-learning"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "http://sklearn.apachecn.org/cn/0.19.0/user_guide.html"
+external_link = "http://scikit-learn.org/stable/"
 
 # Does the project detail page use math formatting?
 math = false
